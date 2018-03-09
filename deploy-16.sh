@@ -67,7 +67,7 @@ make python2.7-dev python-pip re2c supervisor unattended-upgrades whois vim libn
 
 # Set My Timezone
 
-ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+ln -sf /usr/share/zoneinfo/Europe/Moscow /etc/localtime
 
 # Install PHP Stuffs
 
